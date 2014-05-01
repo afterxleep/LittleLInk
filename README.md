@@ -1,4 +1,6 @@
-h1. LittleLink
+LittleLink
+==========
+
 Here is a nifty little app that automatically shrinks all the links and url's you copy to your clipboard.
 
 Get rid of those clumsy browser add ons and slow web sites you've been using to generate small links, and stop thinking about it. With LittleLink, is just a matter of copying and pasting.
@@ -23,6 +25,7 @@ More services will be coming soon.
 --
 
 h2. Download
+------------
 If you are not in the mood for compiling, you can grab a copy of the latest stable version of the app from the App Store here: https://itunes.apple.com/en/app/littlelink/id646646213?mt=12
 
 
