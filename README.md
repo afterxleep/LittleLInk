@@ -24,7 +24,7 @@ More services will be coming soon.
 
 --
 
-h2. Download
+Download
 ------------
 If you are not in the mood for compiling, you can grab a copy of the latest stable version of the app from the App Store here: https://itunes.apple.com/en/app/littlelink/id646646213?mt=12
 
